@@ -1,12 +1,12 @@
-CID_547_Athena_Commando_F_Meteorwoman, 2500
-EID_LetsBegin_Beyond, 2000
+Teriyaki_Fish_Bundle, 2200
+CID_328_Athena_Commando_F_Tennis, 1200
+Pickaxe_ID_033_PotOfGold, 1200
 na
 na
 na
-na
-CID_027_Athena_Commando_F, 1200
-Pickaxe_ID_224_Butterfly, 500
-EID_KEagle, 500
-EID_Everytime, 700
-CID_356_Athena_Commando_F_Farmer, 800
-Glider_ID_118_Squishy, 300
+EID_LasagnaDance, 500
+EID_JellyFrog, 500
+Pickaxe_ID_197_HoppityHeist, 500
+CID_170_Athena_Commando_F_Luchador, 1200
+CID_665_Athena_Commando_F_NeonGraffiti, 1200
+Glider_ID_095_Witch, 1200
